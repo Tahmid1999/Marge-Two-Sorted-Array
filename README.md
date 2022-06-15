@@ -1,4 +1,4 @@
-# Marge-Two-Sorted-Array
+# Marge Two Sorted Array
 input: <br/>
 Enter the size of your array: 3 <br/>
 Enter the low value: 6 <br/>
